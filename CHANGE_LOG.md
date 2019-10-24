@@ -1,5 +1,8 @@
 # CommunityResourcePack :: Change Log
 
+* 2019-0812: 1.2.0.0 (BobPalmer) for KSP 1.7.
+	+ 1.2.0 - 2019.08.04
+	+ KSP 1.7.x Compatibility
 * 2019-0205: 1.1.0.0 (BobPalmer) for KSP 1.6.
 	+ 1.1.0 - 2019.02.05
 	+ KSP 1.6.x Compatibility
