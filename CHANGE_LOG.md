@@ -1,5 +1,9 @@
 # CommunityResourcePack :: Change Log
 
+* 2017-0528: 0.7.1.0 (BobPalmer) for KSP 1.3
+	+ 0.7.1 - KSP 1.3
+	+ KSP 1.3 Compatibility
+	+ Dependency Updates
 * 2017-0526: 0.7.0.0 (BobPalmer) for KSP 1.3
 	+ 0.7.0 - KSP 1.3
 	+ KSP 1.3 Compatibility
