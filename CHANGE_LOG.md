@@ -1,5 +1,8 @@
 # CommunityResourcePack :: Change Log
 
+* 2015-1114: 0.4.7.0 (BobPalmer) for KSP 1.0
+	+ 0.4.7 - 2015.11.14
+	+ Merged MKS and MKS-L resources into CRP
 * 2015-1017: 0.4.5.0 (BobPalmer) for KSP 1.0
 	+ 0.4.5 - 2015.10.16
 	+ Fixed density LqdDeteurium and LqdTritium
