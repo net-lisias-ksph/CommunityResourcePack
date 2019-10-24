@@ -1,5 +1,8 @@
 # CommunityResourcePack :: Change Log
 
+* 2016-1217: 0.6.4.0 (BobPalmer) for KSP 1.2.2
+	+ 0.6.4 - (KSP 1.2.2)
+	+ Added Decaborane as a resource
 * 2016-1115: 0.6.3.0 (BobPalmer) for KSP 1.2.1
 	+ 0.6.3 - (KSP 1.2.1)
 	+ Adjusted cost Fluorine  (KSPI-E) to cost LqdFluorine (Realfuels)
