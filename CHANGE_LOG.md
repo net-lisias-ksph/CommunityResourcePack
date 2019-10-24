@@ -1,5 +1,9 @@
 # CommunityResourcePack :: Change Log
 
+* 2016-1115: 0.6.3.0 (BobPalmer) for KSP 1.2.1
+	+ 0.6.3 - (KSP 1.2.1)
+	+ Adjusted cost Fluorine  (KSPI-E) to cost LqdFluorine (Realfuels)
+	+ Removed double definition of LqdFluorine
 * 2016-1023: 0.6.2.0 (BobPalmer) for KSP 1.2
 	+ 0.6.2 - 2016.10.15
 	+ Various KSPI resource updates
