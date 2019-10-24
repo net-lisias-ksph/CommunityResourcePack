@@ -1,5 +1,7 @@
 # CommunityResourcePack :: Change Log
 
+* 2015-0730: 0.4.4 (BobPalmer) for KSP 1.0
+	+ Various HSP/flow changes
 * 2015-0706: 0.4.3 (BobPalmer) for KSP 1.0
 	+ 0.4.3 - 2015.07.06
 	+ Moved the Karborundum band around the sun out a bit.
