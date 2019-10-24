@@ -1,5 +1,10 @@
 # CommunityResourcePack :: Change Log
 
+* 2017-0205: 0.6.6.0 (BobPalmer) for KSP 1.2.2
+	+ 0.6.6 - 2017.02.04
+	+ Added common resource Sodium a potential high efficient electric propellant
+	+ Added common resource Caesium a rare but dense and highly efficient electric propellant
+	+ ResourceLode value set to zero to prevent exploits.
 * 2017-0105: 0.6.5.0 (BobPalmer) for KSP 1.2.2
 	+ 0.6.5 - (2017.01.01)
 	+ Updated asteroid and scanner settings
