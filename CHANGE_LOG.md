@@ -1,5 +1,9 @@
 # CommunityResourcePack :: Change Log
 
+* 2016-0330: 0.5.0.0 (BobPalmer) for KSP 1.1
+	+ 0.5.0 - 2016.03.29
+	+ Compatibility with KSP 1.1
+	+ Lowered cost of Supplies, Mulch and Fertilizer
 * 2016-0202: 0.4.9.0 (BobPalmer) for KSP 1.0
 	+ 0.4.9 - 2016.02.01
 	+ Added Hydrates as a resource and also to the resource map (represents regolith with captive water)
