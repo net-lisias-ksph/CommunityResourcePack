@@ -1,5 +1,10 @@
 # CommunityResourcePack :: Change Log
 
+* 2016-0514: 0.5.2.0 (BobPalmer) for KSP 1.1.2
+	+ 0.5.2 - 2016.05.14
+	+ Added Volume and reverted UF4 and ThF4 to original KSPI density & cost
+	+ Added Volume property to other resources used by KSPI
+	+ Added default volume to other CRP resources
 * 2016-0502: 0.5.1.1 (BobPalmer) for KSP 1.1.2
 	+ 0.5.1.1 - 2016.04.30
 	+ KSP 1.1.2 compatibility
