@@ -1,5 +1,8 @@
 # CommunityResourcePack :: Change Log
 
+* 2017-0105: 0.6.5.0 (BobPalmer) for KSP 1.2.2
+	+ 0.6.5 - (2017.01.01)
+	+ Updated asteroid and scanner settings
 * 2016-1217: 0.6.4.0 (BobPalmer) for KSP 1.2.2
 	+ 0.6.4 - (KSP 1.2.2)
 	+ Added Decaborane as a resource
