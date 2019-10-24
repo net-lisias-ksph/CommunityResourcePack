@@ -1,5 +1,9 @@
 # CommunityResourcePack :: Change Log
 
+* 2017-1008: 0.8.0.0 (BobPalmer) for KSP 1.3.1
+	+ 0.8.0 - 2017.10.09
+	+ KSP 1.3.1
+	+ Various localization updates
 * 2017-0816: 0.7.2.0 (BobPalmer) for KSP 1.3
 	+ 0.7.2 - 2017.08.15
 	+ Dependency Updates
