@@ -1,5 +1,10 @@
 # CommunityResourcePack :: Change Log
 
+* 2017-0816: 0.7.2.0 (BobPalmer) for KSP 1.3
+	+ 0.7.2 - 2017.08.15
+	+ Dependency Updates
+	+ Localization Updates
+	+ New KSPI Resources
 * 2017-0528: 0.7.1.0 (BobPalmer) for KSP 1.3
 	+ 0.7.1 - KSP 1.3
 	+ KSP 1.3 Compatibility
