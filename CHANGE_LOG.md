@@ -1,5 +1,8 @@
 # CommunityResourcePack :: Change Log
 
+* 2016-0430: 0.5.1.0 (BobPalmer) for KSP 1.1.1
+	+ 0.5.1 - 2016.04.30
+	+ KSP 1.1.1 compatibility
 * 2016-0330: 0.5.0.0 (BobPalmer) for KSP 1.1
 	+ 0.5.0 - 2016.03.29
 	+ Compatibility with KSP 1.1
