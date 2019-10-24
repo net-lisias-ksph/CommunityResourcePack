@@ -1,5 +1,22 @@
 # CommunityResourcePack :: Change Log
 
+* 2016-1011: 0.6.0.0 (BobPalmer) for KSP 1.2
+	+ 0.6.0 - (KSP 1.2)
+	+ Added ARP icon data for RealFuels
+	+ Added/Updated distribution data for:
+		- Antimatter
+		- Helium3
+		- ArgonGas
+		- XenonGas
+		- LqdHydrogen
+		- Added several new resources, including:
+		- HeavyWater
+		- Deuternium
+		- Helium4
+		- Silicates
+		- Borate
+		- ColonySupplies
+		- RefinedExotics
 * 2016-0621: 0.5.4.0 (BobPalmer) for KSP 1.1.3
 	+ 0.5.4 - (KSP 1.1.3)
 	+ Update for KSP 1.1.3
