@@ -1,5 +1,8 @@
 # CommunityResourcePack :: Change Log
 
+* 2018-0307: 0.9.0.0 (BobPalmer) for KSP 1.4.0
+	+ 0.9.0 - 2018.03.07
+	+ KSP 1.4.0 Compatibility
 * 2018-0307: 0.8.1.0 (BobPalmer) for KSP 1.3.1
 	+ 0.8.1 - 2017.03.06
 	+ Fixed an issue with Chinese localization that was causing the game to hang during load.  Thanks to everyone that helped with this!
