@@ -1,5 +1,8 @@
 # CommunityResourcePack :: Change Log
 
+* 2015-1017: 0.4.5.0 (BobPalmer) for KSP 1.0
+	+ 0.4.5 - 2015.10.16
+	+ Fixed density LqdDeteurium and LqdTritium
 * 2015-0730: 0.4.4 (BobPalmer) for KSP 1.0
 	+ Various HSP/flow changes
 * 2015-0706: 0.4.3 (BobPalmer) for KSP 1.0
