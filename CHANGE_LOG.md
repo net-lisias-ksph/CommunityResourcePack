@@ -1,5 +1,9 @@
 # CommunityResourcePack :: Change Log
 
+* 2018-1021: 1.0.0.0 (BobPalmer) for KSP 1.5.0
+	+ 1.0.0 - 2018.10.20
+	+ KSP 1.5.0 Compatibility
+	+ Normalized atmospheric resource harvesting values.
 * 2018-0307: 0.9.0.0 (BobPalmer) for KSP 1.4.0
 	+ 0.9.0 - 2018.03.07
 	+ KSP 1.4.0 Compatibility
