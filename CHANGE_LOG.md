@@ -1,5 +1,8 @@
 # CommunityResourcePack :: Change Log
 
+* 2016-1015: 0.6.1.0 (BobPalmer) for KSP 1.2
+	+ 0.6.1 - 2016.10.15
+	+ Resorted KSPI resources alphabeticly, added abbreviation and Added LqdArgon, LqdFluorine, LqdNitrogen15, LqdOxygen18
 * 2016-1011: 0.6.0.0 (BobPalmer) for KSP 1.2
 	+ 0.6.0 - (KSP 1.2)
 	+ Added ARP icon data for RealFuels
