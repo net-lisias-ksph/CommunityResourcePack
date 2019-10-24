@@ -1,5 +1,9 @@
 # CommunityResourcePack :: Change Log
 
+* 2017-0526: 0.7.0.0 (BobPalmer) for KSP 1.3
+	+ 0.7.0 - KSP 1.3
+	+ KSP 1.3 Compatibility
+	+ Dependency Updates
 * 2017-0205: 0.6.6.0 (BobPalmer) for KSP 1.2.2
 	+ 0.6.6 - 2017.02.04
 	+ Added common resource Sodium a potential high efficient electric propellant
