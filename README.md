@@ -24,6 +24,7 @@ CC BY SA NC 4.0 International
 
 ## UPSTREAM
 
+* https://umbraspaceindustries.github.io/UmbraSpaceIndustries/
 * https://forum.kerbalspaceprogram.com/index.php?/topic/83007-15x-community-resource-pack/
 * https://github.com/BobPalmer/CommunityCategoryKit
 * https://spacedock.info/mod/31/Community%20Resource%20Pack
