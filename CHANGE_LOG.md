@@ -1,5 +1,7 @@
 # CommunityResourcePack :: Change Log
 
+* 2020-1221: 1.4.2 (BobPalmer) for KSP 1.11
+	+ For KSP 1.11
 * 2020-0929: 1.4.1.0 (BobPalmer) for KSP 1.3.1
 	+ 1.4.0 - 2020.09.26
 	+ KSP 1.10 Compatibility
